@@ -42,11 +42,12 @@ Após adicionar o repositório, inclua a dependência desejada na seção `<depe
 
 Atualmente, o repositório contém os seguintes artefatos:
 
-| Artefato            | Versão                      | GroupID                           |
-| ------------------- | --------------------------  | --------------------------------- |
-| PaperSpigot         | 1.8.8-R0.1-SNAPSHOT-latest  | org.github.paperspigot            |
-| LegendChat          | 1.1.5                       | br.com.devpaulo.legendchat        |
-| PlaceholderAPI      | 2.9.2                       | me.clip.placeholderapi            |
+| Artefato            | Versão                      | GroupID                               |
+| ------------------- | --------------------------  | --------------------------------------|
+| PaperSpigot         | 1.8.8-R0.1-SNAPSHOT-latest  | org.github.paperspigot                |
+| LegendChat          | 1.1.5                       | br.com.devpaulo.legendchat            |
+| PlaceholderAPI      | 2.9.2                       | me.clip.placeholderapi                |
+| Solary-Economy      | 1.5.3                       | com.redeskyller.bukkit.solaryeconomy  |
 
 Futuramente, outros artefatos podem ser adicionados conforme a necessidade.
 
