@@ -14,7 +14,7 @@ Adicione a seguinte configuração dentro da tag `<repositories>` no seu `pom.xm
 <repositories>
     <repository>
         <id>github-theprogmatheus-maven-repository</id>
-        <url>https://github.com/theprogmatheus/maven-repository/raw/refs/heads/master/</url>
+        <url>https://raw.githubusercontent.com/theprogmatheus/maven-repository/master/</url>
     </repository>
 </repositories>
 ```
