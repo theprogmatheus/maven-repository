@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.citizensnpcs</groupId>
+  <artifactId>Citizens</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0.16-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20250228154154</lastUpdated>
+  </versioning>
+</metadata>

@@ -50,6 +50,14 @@ Atualmente, o repositório contém os seguintes artefatos:
 | Solary-Economy      | 1.5.3                       | com.redeskyller.bukkit.solaryeconomy       |
 | itembuilder         | 1.0                         | com.github.theprogmatheus.minecraft.utils  |
 | guibuilder          | 1.0                         | com.github.theprogmatheus.minecraft.utils  |
+| Citizens            | 2.0.16-SNAPSHOT             | net.citizensnpcs                           |
+| LuckPerms           | 5.4.156                     | net.luckperms.api                          |
+| nChat               | 5.6.54                      | com.nickuc.chat                            |
+| ProtocolLib         | 5.3.0                       | com.comphenix.protocol                     |
+| SimpleClans         | 2.19.2-05e7abc              | net.sacredlabyrinth.phaed                  |
+| Vault               | 1.7.3-b131                  | net.milkbowl.vault                         |
+| WorldEdit           | 6.1.8-SNAPSHOT              | com.sk89q.worldedit.bukkit                 |
+| WorldGuard          | 6.1-TRADUZIDA               | com.sk89q.worldguard.bukkit                |
 
 Futuramente, outros artefatos podem ser adicionados conforme a necessidade.
 
