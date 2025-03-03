@@ -38,6 +38,52 @@ Após adicionar o repositório, inclua a dependência desejada na seção `<depe
 > mvn clean install
 > ```
 
+## Como Usar Este Repositório no Seu Projeto Gradle
+
+Para utilizar os artefatos deste repositório em seu projeto Gradle, siga os passos abaixo:
+
+### 1. Adicione o Repositório ao `build.gradle`
+
+Se estiver usando Gradle com `Groovy DSL`, adicione o seguinte bloco dentro da seção `repositories`:
+
+```groovy
+repositories {
+    maven {
+        url "https://raw.githubusercontent.com/theprogmatheus/maven-repository/master/"
+    }
+}
+```
+
+Se estiver usando Gradle com `Kotlin DSL`, adicione o seguinte bloco dentro da seção `repositories`:
+
+```kotlin
+repositories {
+    maven {
+        setUrl("https://raw.githubusercontent.com/theprogmatheus/maven-repository/master/")
+    }
+}
+```
+
+### 2. Adicione a Dependência do Artefato
+
+Para adicionar uma dependência, utilize a seguinte sintaxe em seu `build.gradle`:
+
+**Groovy DSL:**
+
+```groovy
+dependencies {
+    implementation 'org.github.paperspigot:PaperSpigot:1.8.8-R0.1-SNAPSHOT-latest'
+}
+```
+
+**Kotlin DSL:**
+
+```kotlin
+dependencies {
+    implementation("org.github.paperspigot:PaperSpigot:1.8.8-R0.1-SNAPSHOT-latest")
+}
+```
+
 ## Artefatos Disponíveis
 
 Atualmente, o repositório contém os seguintes artefatos:
