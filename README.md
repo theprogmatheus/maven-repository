@@ -104,6 +104,7 @@ Atualmente, o repositório contém os seguintes artefatos:
 | Vault               | 1.7.3-b131                  | net.milkbowl.vault                         |
 | WorldEdit           | 6.1.8-SNAPSHOT              | com.sk89q.worldedit.bukkit                 |
 | WorldGuard          | 6.1-TRADUZIDA               | com.sk89q.worldguard.bukkit                |
+| jgr-uchecker        | 1.0.0                       | com.github.theprogmatheus                  |
 
 Futuramente, outros artefatos podem ser adicionados conforme a necessidade.
 
